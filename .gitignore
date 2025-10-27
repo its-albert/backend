@@ -1,0 +1,27 @@
+# Operating System files
+.DS_Store
+
+# Log files and temporary files
+error_log
+files/
+polls/
+uploads/
+Connections/
+
+# Old, test, or duplicate versions of scripts
+events_new.php
+events_new_2023.php
+events_new_2024.php
+image_upload_new.php
+image_upload_new_ed_3.php
+post_event_new.php
+post_event_new_2023.php
+post_event_v2.php
+post_event_v3.php
+commentss.php
+like_me_v2.php
+likes_new.php
+likes_new_ts.php
+signup_ed_01.php
+signup_ed_02.php
+zignin_in.php
